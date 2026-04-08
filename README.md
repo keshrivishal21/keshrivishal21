@@ -1,7 +1,7 @@
 # Hi there, I'm Vishal Keshri 👋
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vishal-keshri-14b28826"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="https://www.linkedin.com/in/vishal-keshri-14b288262/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
   <a href="mailto:vishalkeshri2001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vishal" /></a>
   <img src="https://komarev.com/ghpvc/?username=keshrivishal21&style=for-the-badge&color=0e75b6" alt="Profile views" />
 </p>
@@ -60,17 +60,16 @@ I enjoy solving real-world problems using modern web technologies, especially:
 
 ## 📈 GitHub Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshrivishal21&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats card showing contributions, repositories, and activity summary for keshrivishal21" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshrivishal21&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages card showing most-used programming languages for keshrivishal21" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keshrivishal21&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshrivishal21&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
 </p>
 
 <p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=keshrivishal21&theme=tokyonight&hide_border=true" alt="Contribution streak statistics for keshrivishal21" />
+  <img src="https://streak-stats.demolab.com?user=keshrivishal21&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🏆 Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=keshrivishal21&theme=algolia&no-frame=true&no-bg=true&margin-w=6" alt="GitHub trophies" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=keshrivishal21&theme=algolia&no-frame=true&no-bg=true&margin-w=6" />
 ---
 
 ### 🤝 Let's Connect
