@@ -60,8 +60,8 @@ I enjoy solving real-world problems using modern web technologies, especially:
 
 ## 📈 GitHub Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshrivishal21&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshrivishal21&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keshrivishal21&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshrivishal21&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="left">
@@ -69,7 +69,7 @@ I enjoy solving real-world problems using modern web technologies, especially:
 </p>
 
 ## 🏆 Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=keshrivishal21&theme=algolia&no-frame=true&no-bg=true&margin-w=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=keshrivishal21&theme=onestar&no-frame=true&no-bg=true" />
 ---
 
 ### 🤝 Let's Connect
