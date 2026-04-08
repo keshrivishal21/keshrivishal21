@@ -60,8 +60,8 @@ I enjoy solving real-world problems using modern web technologies, especially:
 
 ## 📈 GitHub Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshrivishal21&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution statistics for keshrivishal21" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshrivishal21&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages for keshrivishal21" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keshrivishal21&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats card showing contributions, repositories, and activity summary for keshrivishal21" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshrivishal21&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages card showing most-used programming languages for keshrivishal21" />
 </p>
 
 <p align="left">
