@@ -29,7 +29,7 @@ I’m actively looking for an internship where I can contribute, learn from ment
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 ### Backend & Tools
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
@@ -68,13 +68,13 @@ I’m actively looking for an internship where I can contribute, learn from ment
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=keshrivishal21&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keshrivishal21&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub contribution statistics for keshrivishal21" />
 </p>
 <p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=keshrivishal21&theme=dark&hide_border=false" alt="GitHub streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=keshrivishal21&theme=dark&hide_border=false" alt="Contribution streak statistics for keshrivishal21" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshrivishal21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshrivishal21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used programming languages for keshrivishal21" />
 </p>
 
 ## 🏆 GitHub Trophies
